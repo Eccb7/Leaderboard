@@ -31,7 +31,7 @@
 
 # 📖 To-do-List <a name="about-project"></a>
 
-**Leaderboard** is a repository.In this project,In this project, you will build a simple HTML list of To Do tasks. This simple project has been built using webpack and served by a webpack dev server.
+**Leaderboard** is a repository where I have set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. In following project, I will consume the Leaderboard API using JavaScript async and await and add some styling.
 
 ## 🛠 Built With <a name="built-with"></a>
 
