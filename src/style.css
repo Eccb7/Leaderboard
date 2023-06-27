@@ -1,0 +1,47 @@
+body {
+  background-color: #efc7c7;
+}
+
+header {
+  text-align: center;
+}
+
+.Leaderboard {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.scores {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#list {
+  border: 1px solid #a3a2a2;
+  padding: 10px;
+  list-style: none;
+}
+
+#update {
+  text-align: center;
+}
+
+#update h3 {
+  margin-top: 0;
+}
+
+#update input,
+#update button {
+  margin: 5px 0;
+}
