@@ -3,7 +3,7 @@ import './style.css';
 import { renderLeaderboard, refreshScores, submitScore } from './modules/scoreList.js';
 
 // Your game ID
-const gameId = 'YOUR_GAME_ID';
+const gameId = 'Zl4d7IVkemOTTVg2fUdz';
 
 // Render the leaderboard initially
 renderLeaderboard();
