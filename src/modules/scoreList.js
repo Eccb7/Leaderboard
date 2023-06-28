@@ -30,15 +30,15 @@ export const refreshScores = async (gameId) => {
 };
 
 // Function to submit a score to the API
-// export const submitScore = async (gameId, name, score) => {
-//   await fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores`, {
-//     method: 'POST',
-//     headers: {
-//       'Content-Type': 'application/json',
-//     },
-//     body: JSON.stringify({ user: name, score }),
-//   });
+export const submitScore = async (gameId, name, score) => {
+  await fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ user: name, score }),
+  });
 
-//   // Add the new score to the leaderboard
-//   leaderboard.push({ name, score });
-// };
+  // Add the new score to the leaderboard
+  leaderboard.push({ name, score });
+};
