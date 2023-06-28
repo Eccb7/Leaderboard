@@ -38,7 +38,4 @@ export const submitScore = async (gameId, name, score) => {
     },
     body: JSON.stringify({ user: name, score }),
   });
-
-  // Add the new score to the leaderboard
-  leaderboard.push({ name, score });
 };
