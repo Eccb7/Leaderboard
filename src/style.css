@@ -27,6 +27,12 @@ header {
   align-items: center;
 }
 
+.list-container {
+  height: 500px;
+  width: 100%;
+  overflow-y: scroll;
+}
+
 #list {
   border: 1px solid #a3a2a2;
   padding: 10px;
