@@ -58,7 +58,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Demo of Linters**
-- **Demo of Leaderboard**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
@@ -137,7 +137,7 @@ npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add mobile version**
+- [ ] **Demo of Leaderboard**
 - [ ] **Add Model**
 <!-- - [ ] **Navigation to full website** -->
 
