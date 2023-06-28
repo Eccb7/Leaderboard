@@ -119,6 +119,13 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 ```
 
+## To start app
+
+- Start server 
+```
+npm start
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHOR -->

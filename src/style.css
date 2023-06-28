@@ -39,6 +39,19 @@ header {
   list-style: none;
 }
 
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #013267;
+}
+
 #update {
   text-align: center;
 }
