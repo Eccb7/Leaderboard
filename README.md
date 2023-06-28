@@ -15,7 +15,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -29,7 +29,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 To-do-List <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
 **Leaderboard** is a repository where I have set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. In following project, I will consume the Leaderboard API using JavaScript async and await and add some styling.
 
@@ -63,9 +63,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/Eccb7/Leaderboard/)
+- [Live Demo Link](https://github.com/Eccb7/Leaderboard/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
